@@ -8,7 +8,7 @@
 
 ## About
 
-I build full-stack product surfaces end-to-end — from React/Next.js UIs to Node/Express APIs — with recent work in fintech operations tooling and headless e-commerce. Parallel track in **Three.js / creative coding** (real-time visuals, interaction, WebGL demos).
+I build full-stack product surfaces end-to-end — from React/Next.js UIs to Node/Express APIs — with recent work in fintech operations tooling and headless e-commerce.
 
 Currently at **Qnow**, contributing to production web products (including [qnow.space](https://qnow.space/)). Selected client work: [btzsport.com](https://www.btzsport.com/).
 
