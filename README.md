@@ -8,7 +8,7 @@ Buenos Aires · Spanish / English · open to forward-deployed roles.
 
 *ES: agentes, MCP y grafos, con la interfaz Next.js incluida.*
 
-[Portfolio](https://www.miguelgd.com) · [miguelgiradu@gmail.com](mailto:miguelgiradu@gmail.com)
+[Portfolio](https://www.miguelgd.com/en) · [LinkedIn](https://www.linkedin.com/in/miguel-giraldo-duque/) · [miguelgiradu@gmail.com](mailto:miguelgiradu@gmail.com)
 
 ## Stack
 
@@ -37,7 +37,7 @@ Goals and daily progress tracker: React client, Express API, PostgreSQL, Docker 
 
 Also public: [Morph particles](https://github.com/Miguel-Giraldo-Duque/Morhp_particles) ([demo](https://morhp-particles.vercel.app)) · [comments UX proposal](https://github.com/Miguel-Giraldo-Duque/Propuesta__comentarios_Plazi) ([demo](https://propuesta-seccion-comentarios.vercel.app)) · [Three.js + Vite starter](https://github.com/Miguel-Giraldo-Duque/Template_vite_Threejs_POO).
 
-Other client work, including [BTZ Sport](https://www.btzsport.com/), is on the [portfolio](https://www.miguelgd.com). The source is not in this public profile.
+Other client work, including [BTZ Sport](https://www.btzsport.com/), is on the [portfolio](https://www.miguelgd.com/en). The source is not in this public profile.
 
 ## To complete
 
