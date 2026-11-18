@@ -8,7 +8,7 @@ Buenos Aires · Spanish / English · open to forward-deployed roles.
 
 *ES: agentes, MCP y grafos, con la interfaz Next.js incluida.*
 
-[Portfolio](https://www.miguelgd.com) · LinkedIn: TODO · [miguelgiradu@gmail.com](mailto:miguelgiradu@gmail.com)
+[Portfolio](https://www.miguelgd.com) · [miguelgiradu@gmail.com](mailto:miguelgiradu@gmail.com)
 
 ## Stack
 
@@ -25,7 +25,7 @@ Lexical graph in Neo4j (`File → Page → Chunk`, embeddings, hybrid search) an
 
 ### [el_viejo_buzon](https://github.com/Miguel-Giraldo-Duque/el_viejo_buzon)
 
-Next.js (App Router) and TypeScript landing, set up as a demo for a Buenos Aires bar. Brand and copy live in YAML. The production build is one offline HTML file.
+Next.js (App Router) and TypeScript landing for a Buenos Aires bar. Brand and copy live in YAML. [Live demo](https://elviejobuzon.vercel.app).
 
 ### [WoobleDeform](https://github.com/Miguel-Giraldo-Duque/WoobleDeform)
 
@@ -41,7 +41,6 @@ Other client work, including [BTZ Sport](https://www.btzsport.com/), is on the [
 
 ## To complete
 
-- LinkedIn URL (`https://www.linkedin.com/in/…`): TODO. The previous profile link and the slug on the portfolio do not resolve to this profile.
 - Public sample of an LLM agent with guardrails and evals: TODO
 - Public Cypress, Vitest, and MSW example: TODO
 - Current role or notice period, if it should appear here: TODO
